@@ -1,10 +1,10 @@
 # ProgrammingPortfolio
-#####This is a repository filled with projects I have completed so far.
+##### This is a repository filled with projects I have completed so far.
 
-####Contact me at danyontb@gmail.com
+##### Contact me at danyontb@gmail.com
 
 #### Tron Group Project
 
-######2018-2019
+###### 2018-2019
 
-#######Certification in Proccessing Language
+###### Certification in Proccessing Language
